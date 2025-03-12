@@ -9,9 +9,9 @@
 ```makefile
 pkg update && pkg upgrade && pkg install python && pkg install git && git clone https://github.com/Wildev26/Sub-cf.git && cd Sub-cf
 ```
-## install Library
+## install module requirements.txt
 ```makefile
-pip install requests
+pip install -r requirements.txt
 ```
 ## UNTUK MENJALAKAN COPY PERINTAH
 ```makefile
