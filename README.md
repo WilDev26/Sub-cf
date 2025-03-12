@@ -7,7 +7,7 @@
 
 ### Instalation on Termux & Running
 ```makefile
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/Wildev26/Sub-cf.git && cd Sub-cf
+pkg update && pkg upgrade && pkg install python && pkg install git && git clone https://github.com/Wildev26/Sub-cf.git && cd Sub-cf
 ```
 ## UNTUK MENJALAKAN COPY PERINTAH
 ```makefile
