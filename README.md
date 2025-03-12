@@ -1,4 +1,4 @@
-# SUBDOMAIN-CLOUDFLARE
+# SUBDOMAIN-CF
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SUB-CLOUDFLARE)](https://git.io/typing-svg)
 <img src="https://github.com/WilDev26/subdomain/blob/47bc3fe4ce169598b470249a2cd6a52b722cf053/demo/demo%20(1).gif"/>
 ## DOWNLOAD TERMUX FDROID
@@ -9,7 +9,7 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/Wil
 ```
 ## UNTUK MENJALAKAN COPY PERINTAH
 ```makefile
-python3 sub.py
+python3 main.py
 ```
 ## BUG LAPORKAN
 <a href="https://t.me/Willly21" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
