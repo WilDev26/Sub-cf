@@ -1,6 +1,1 @@
 requests
-pytesseract
-cython
-rich
-requests-toolbelt
-pillow
