@@ -1,6 +1,5 @@
 # SUBDOMAIN-CF
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SUB-CLOUDFLARE)](https://git.io/typing-svg)
-<img src="https://github.com/WilDev26/Sub-cf/blob/496f0ae7d101108184dad2f07b40f780274acc59/Demo/screen-20250311-084224_1.mp4"/>
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 ### Instalation on Termux & Running
