@@ -1,9 +1,10 @@
 # SUBDOMAIN-CF
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SUB-CLOUDFLARE)](https://git.io/typing-svg)
 ## DOWNLOAD TERMUX FDROID
-* Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)*
+* Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 # DEMO
 <img src ="https://github.com/WilDev26/Sub-cf/blob/db95c4aad2a0ef05f1ad421802b6ae604db41f48/Demo/screen-20250311-084224_1.gif"/>
+
 ### Instalation on Termux & Running
 ```makefile
 pkg update && pkg upgrade && pkg install git && git clone https://github.com/Wildev26/Sub-cf.git && cd Sub-cf
@@ -12,7 +13,7 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/Wil
 ```makefile
 python3 main.py
 ```
-## BUG LAPORKAN
+### BUG LAPORKAN
 <a href="https://t.me/Willly21" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
